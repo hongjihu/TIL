@@ -19,7 +19,7 @@
 
   
 
-​	![jsp-definition](C:\Users\User\Downloads\jsp-definition.png)
+
 
 ### Servlet와 JSP의 차이
 
